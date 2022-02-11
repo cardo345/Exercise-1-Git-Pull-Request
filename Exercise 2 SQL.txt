@@ -1,0 +1,13 @@
+Exercise 2 - Development SQL
+
+SELECT *
+FROM SDET_Course_Employees
+WHERE EXISTS (SELECT Description FROM SDET_Course_Department WHERE SDET_Course_Employees.DepartmentId = '5') AND Branch = '3'
+
+SELECT *
+FROM SDET_Course_Employees
+WHERE EXISTS (SELECT Description FROM SDET_Course_Department WHERE SDET_Course_Employees.DepartmentId = '2') AND Branch = '1'
+
+SELECT *
+FROM SDET_Course_Employees
+WHERE EXISTS (SELECT Description FROM SDET_Course_Department WHERE SDET_Course_Employees.DOB > '1994-02-08') AND Branch = '3'
