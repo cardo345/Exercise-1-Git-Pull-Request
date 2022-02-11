@@ -1,0 +1,13 @@
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\rramirezprd\source\repos\cardo345\Exercise-1-Git-Pull-Request\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
